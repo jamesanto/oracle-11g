@@ -11,7 +11,7 @@
 # initial set of tablespaces based on the user input.
 ###############################################################################
  
-db_name='ORCL'
+db_name='obbdev'
 memory_target=1G
 processes = 150
 # db_block_size=8192
